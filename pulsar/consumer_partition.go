@@ -300,7 +300,7 @@ func (pc *partitionConsumer) requestGetLastMessageID() (trackingMessageID, error
 	res, err := pc.client.rpcClient.RequestOnCnx(pc._getConn(), requestID,
 		pb.BaseCommand_GET_LAST_MESSAGE_ID, cmdGetLastMessageID)
 	if err != nil {
-		pc.log.WithError(err).Error("Failed to get last message id")
+		//pc.log.WithError(err).Error("Failed to get last message id")
 		return trackingMessageID{}, err
 	}
 	id := res.Response.GetLastMessageIdResponse.GetLastMessageId()
