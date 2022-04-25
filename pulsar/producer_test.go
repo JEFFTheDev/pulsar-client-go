@@ -27,11 +27,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/internal"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/apache/pulsar-client-go/pulsar/crypto"
-	plog "github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/crypto"
+	plog "github.com/JEFFTheDev/pulsar-client-go/pulsar/log"
 	log "github.com/sirupsen/logrus"
 )
 

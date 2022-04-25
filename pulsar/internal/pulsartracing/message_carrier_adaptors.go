@@ -20,7 +20,7 @@ package pulsartracing
 import (
 	"errors"
 
-	"github.com/apache/pulsar-client-go/pulsar"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar"
 )
 
 // ProducerMessageExtractAdapter Implements TextMap Interface

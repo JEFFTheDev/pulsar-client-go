@@ -18,10 +18,10 @@
     under the License.
 
 -->
-[![GoDoc](https://img.shields.io/badge/Godoc-reference-blue.svg)](https://godoc.org/github.com/apache/pulsar-client-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/apache/pulsar-client-go)](https://goreportcard.com/report/github.com/apache/pulsar-client-go)
+[![GoDoc](https://img.shields.io/badge/Godoc-reference-blue.svg)](https://godoc.org/github.com/JEFFTheDev/pulsar-client-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/JEFFTheDev/pulsar-client-go)](https://goreportcard.com/report/github.com/JEFFTheDev/pulsar-client-go)
 [![Language](https://img.shields.io/badge/Language-Go-blue.svg)](https://golang.org/)
-[![LICENSE](https://img.shields.io/hexpm/l/pulsar.svg)](https://github.com/apache/pulsar-client-go/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/hexpm/l/pulsar.svg)](https://github.com/JEFFTheDev/pulsar-client-go/blob/master/LICENSE)
 # Apache Pulsar Go Client Library
 
 A Go client library for the [Apache Pulsar](https://pulsar.incubator.apache.org/) project.
@@ -40,7 +40,7 @@ CGo based library.
 
 ## Status
 
-Check the Projects page at https://github.com/apache/pulsar-client-go/projects for
+Check the Projects page at https://github.com/JEFFTheDev/pulsar-client-go/projects for
 tracking the status and the progress.
 
 ## Usage
@@ -48,7 +48,7 @@ tracking the status and the progress.
 Import the client library:
 
 ```go
-import "github.com/apache/pulsar-client-go/pulsar"
+import "github.com/JEFFTheDev/pulsar-client-go/pulsar"
 ```
 
 Create a Producer:

@@ -24,9 +24,9 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
-	"github.com/apache/pulsar-client-go/pulsar/internal/auth"
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/internal"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/internal/auth"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/log"
 )
 
 const (

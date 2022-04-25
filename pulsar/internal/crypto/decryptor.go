@@ -18,7 +18,7 @@
 package crypto
 
 import (
-	pb "github.com/apache/pulsar-client-go/pulsar/internal/pulsar_proto"
+	pb "github.com/JEFFTheDev/pulsar-client-go/pulsar/internal/pulsar_proto"
 )
 
 // Decryptor support decrypting of message

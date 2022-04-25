@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"io"
 
-	pb "github.com/apache/pulsar-client-go/pulsar/internal/pulsar_proto"
+	pb "github.com/JEFFTheDev/pulsar-client-go/pulsar/internal/pulsar_proto"
 	"github.com/gogo/protobuf/proto"
 )
 

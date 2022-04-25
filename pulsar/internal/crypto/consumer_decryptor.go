@@ -20,9 +20,9 @@ package crypto
 import (
 	"fmt"
 
-	"github.com/apache/pulsar-client-go/pulsar/crypto"
-	pb "github.com/apache/pulsar-client-go/pulsar/internal/pulsar_proto"
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/crypto"
+	pb "github.com/JEFFTheDev/pulsar-client-go/pulsar/internal/pulsar_proto"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/log"
 )
 
 type consumerDecryptor struct {

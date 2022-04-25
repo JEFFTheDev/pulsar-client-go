@@ -21,8 +21,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/apache/pulsar-client-go/pulsar/internal"
-	"github.com/apache/pulsar-client-go/pulsar/log"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/internal"
+	"github.com/JEFFTheDev/pulsar-client-go/pulsar/log"
 )
 
 type dlqRouter struct {

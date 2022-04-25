@@ -1,4 +1,4 @@
-module github.com/apache/pulsar-client-go/oauth2
+module github.com/JEFFTheDev/pulsar-client-go/oauth2
 
 go 1.15
 
